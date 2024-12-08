@@ -1,14 +1,1 @@
----
-- summary: |
-    Проверка адаптации для мобильных устройств
-  status: fail
-
-- summary: |
-    Нагрузочное тестирование сайта
-  status: fail
-
-- summary: |
-     Проверка отображения на планшетах
-  status: fail
-
 bugreports: [] 
